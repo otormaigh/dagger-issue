@@ -1,0 +1,22 @@
+# IDEA
+*.iml
+.idea/*
+!.idea/codeStyleSettings.xml
+!.idea/copyright
+!.idea/codeStyles
+!.idea/icon.png
+!.idea/icon_dark.png
+
+# Gradle
+.gradle
+build
+/reports
+*.hprof
+
+# Gradle Android
+**/local.properties
+**/build
+/captures
+
+# OSX
+.DS_Store
